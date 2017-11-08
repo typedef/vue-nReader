@@ -21,7 +21,7 @@ Vue.use(VueTouch, {
 Vue.use(MintUI)
 Vue.config.productionTip = false
 Vue.use(Ajax, {
-  baseURL: 'http://35.189.165.140:3000/'
+   baseURL: 'http://novel.ifengqi.net:8081/'
 })
 
 /* eslint-disable no-new */

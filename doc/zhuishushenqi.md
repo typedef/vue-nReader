@@ -7,7 +7,7 @@
 ```javascript
 http://api.zhuishushenqi.com
 http://api05iye5.zhuishushenqi.com
-http://http://chapterup.zhuishushenqi.com/chapter
+http://chapterup.zhuishushenqi.com/chapter
 ```
 
 由于官方`api`地址没有进行CROS处理,所以调用时会存在跨域问题,这里提供了一个代理地址:
